@@ -1,21 +1,21 @@
 public class Transaction {
-    private String id;
+    private int id;
     private String date;
     private double unitPrice;
     private double area;
 
-    public Transaction(String id, String date, double unitPrice, double area) {
+    public Transaction(int id, String date, double unitPrice, double area) {
         this.id = id;
         this.date = date;
         this.unitPrice = unitPrice;
         this.area = area;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
