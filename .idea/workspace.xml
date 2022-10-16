@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="Transaction &amp;&amp; TransactionHome">
+    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="Transaction &amp;&amp; TransactionHome 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionSoil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TransactionHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TransactionHome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665938293906</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Transaction &amp;&amp; TransactionHome 2">
+      <created>1665939138993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665939138993</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +138,8 @@
     <MESSAGE value="SoilType enum" />
     <MESSAGE value="TransactionHome" />
     <MESSAGE value="Transaction &amp;&amp; TransactionHome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transaction &amp;&amp; TransactionHome" />
+    <MESSAGE value="Transaction &amp;&amp; TransactionHome 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transaction &amp;&amp; TransactionHome 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
