@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="TransactionSoil 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Administrator.java" afterDir="false" />
+    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="Administrator">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665940619445</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Administrator">
+      <created>1665941663879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665941663879</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +169,8 @@
     <MESSAGE value="TransactionSoil" />
     <MESSAGE value="TransactionSoil 2" />
     <MESSAGE value="TransactionSoil 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="TransactionSoil 3" />
+    <MESSAGE value="Administrator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Administrator" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
