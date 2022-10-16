@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="HomeType enum">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SoilType.java" afterDir="false" />
+    <list default="true" id="5849eaff-dfa8-4ab2-b8a7-f616536a3644" name="Changes" comment="SoilType enum">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionHome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665937980872</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SoilType enum">
+      <created>1665938047911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938047911</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +113,8 @@
     <MESSAGE value="Transaction" />
     <MESSAGE value="Input" />
     <MESSAGE value="HomeType enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeType enum" />
+    <MESSAGE value="SoilType enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="SoilType enum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
