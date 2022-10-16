@@ -43,6 +43,10 @@ public class Transaction {
         this.area = area;
     }
 
+    public double getPrice() {
+        return unitPrice * area;
+    }
+
     @Override
     public String toString() {
         return String.format("%s%15s%15s%15s", id, date, unitPrice, area);
