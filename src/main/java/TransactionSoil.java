@@ -42,4 +42,14 @@ public class TransactionSoil extends Transaction {
         }
     }
 
+    @Override
+    public String toString() {
+        return String.format("%s%15s%15s%15s%15s",
+                super.getId(),
+                super.getDate(),
+                Input.toVnd(getId()),
+                super.getArea(),
+                soilType.toString()
+        );
+    }
 }
